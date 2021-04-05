@@ -1,12 +1,4 @@
-{
-    "type": "ipv4-addr",
-    "spec_version": "2.1",
-    "id": "ipv4-addr--395d38b8-facd-50f4-b84b-d7e8136a8d17",
-    "value": "194.147.140.57",
-    "resolves_to_refs": [
-        "mac-addr--43f380fd-37c6-476d-8643-60849bf9240e"
-    ]
-}
+
 {
     "type": "bundle",
     "id": "bundle--82881df8-92a5-4738-9d8d-0b1a7e029ad3",
