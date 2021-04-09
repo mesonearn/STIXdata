@@ -93,6 +93,45 @@
                 "catagory_name": "Pfishing URL"
             }
         },
+               {
+            "type": "observed-data",
+            "id": "observed-data--14da5add-9b55-4b22-a475-62afed6534e3",
+            "created_by_ref": "identity--8ee6e5aa-931b-4870-9ee0-cb47fd997858",
+            "created": "2021-03-18T19:11:07.537Z",
+            "modified": "2021-04-08T19:11:07.537Z",
+            "first_observed": "2021-03-18T19:06:20.459257Z",
+            "last_observed": "2021-04-04T19:08:10.111663Z",
+            "number_observed": 1,
+            "objects": {
+                "0": {
+                    "type": "ipv4-addr",
+                    "value": "10.0.0.1"
+                },
+                "1": {
+                    "type": "ipv4-addr",
+                    "value": "37.228.129.2"
+                },
+                "2": {
+                    "type": "network-traffic",
+                    "start": "2021-04-01T19:06:20.459257Z",
+                    "end": "2021-04-09T19:08:10.111663Z",
+                    "is_active": false,
+                    "src_ref": "0",
+                    "dst_ref": "1",
+                    "src_port": 58767,
+                    "dst_port": 443,
+                    "protocols": [
+                        "ip",
+                        "tcp",
+                        "tls"
+                    ]
+                }
+            },
+            "x_com_ibm_ariel":{
+                "catagory_id": "23054",
+                "catagory_name": "Anonymization Services"
+            }
+        },
         {
             "type": "observed-data",
                   "id": "observed-data--b646922a-94c3-473b-bcd5-05481ae2b19f",
@@ -100,7 +139,7 @@
                   "created": "2021-04-03T13:10:34.442Z",
                   "modified": "2021-04-04T13:10:34.442Z",
                   "first_observed": "2021-03-10T13:10:04.749329Z",
-                  "last_observed": "2021-04-04T13:10:16.901556Z",
+                  "last_observed": "2021-04-03T13:10:16.901556Z",
                   "number_observed": 1,
                   "objects": {
                       "0": {
@@ -113,8 +152,8 @@
                       },
                       "2": {
                           "type": "network-traffic",
-                          "start": "2021-04-03T13:10:04.749329Z",
-                          "end": "2021-04-03T13:10:16.901556Z",
+                          "start": "2021-04-02T13:10:04.749329Z",
+                          "end": "2021-04-05T13:10:16.901556Z",
                           "is_active": false,
                           "src_ref": "0",
                           "dst_ref": "1",
