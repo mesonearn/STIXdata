@@ -33,7 +33,7 @@
                     "type": "url",
                     "value": "remdesivir-covid19.online"
         },
-                "2": {
+                "3": {
                     "type": "network-traffic",
                     "start": "2021-04-01T19:06:20.459257Z",
                     "end": "2021-04-01T19:08:10.111663Z",
