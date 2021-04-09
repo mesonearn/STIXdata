@@ -27,8 +27,12 @@
                 },
                 "1": {
                     "type": "ipv4-addr",
-                    "value": "194.147.140.57"
+                    "value": "185.253.212.22"
                 },
+                "2": {
+                    "type": "url",
+                    "value": "remdesivir-covid19.online"
+        },
                 "2": {
                     "type": "network-traffic",
                     "start": "2021-04-01T19:06:20.459257Z",
