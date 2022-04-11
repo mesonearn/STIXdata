@@ -16,14 +16,14 @@
             "id": "observed-data--14da5add-9b55-4b22-a475-62afed6534e3",
             "created_by_ref": "identity--8ee6e5aa-931b-4870-9ee0-cb47fd997858",
             "created": "2021-03-18T19:11:07.537Z",
-            "modified": "2021-04-08T19:11:07.537Z",
+            "modified": "2022-04-08T19:11:07.537Z",
             "first_observed": "2021-03-18T19:06:20.459257Z",
             "last_observed": "2021-04-08T19:08:10.111663Z",
             "number_observed": 1,
             "objects": {
                 "0": {
                     "type": "ipv4-addr",
-                    "value": "194.147.140.57"
+                    "value": "61.177.173.37"
                 },
                 "1": {
                     "type": "ipv4-addr",
@@ -66,7 +66,7 @@
                 },
                 "1": {
                     "type": "ipv4-addr",
-                    "value": "185.253.212.22"
+                    "value": "42.117.20.41"
                 },
                 "2": {
                     "type": "url",
@@ -109,7 +109,7 @@
                 },
                 "1": {
                     "type": "ipv4-addr",
-                    "value": "37.228.129.2"
+                    "value": "185.156.73.110"
                 },
                 "2": {
                     "type": "network-traffic",
